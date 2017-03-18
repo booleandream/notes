@@ -1,4 +1,18 @@
-Add a remote repository:
+One line log
+git log --graph --oneline
 
+Add a remote repository:
 git remote add origin https://github.com/booleandream/notes.git
+
+See the fetch and pull url
+git remote -v
+
+Change the url of a remote
+git remote set-url origin https://github.com/booleandream/git_lesson.git
+
+Remove a remote
+git remote rm origin_git_lesson
+
+
+
 
