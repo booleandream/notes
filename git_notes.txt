@@ -1,0 +1,4 @@
+Add a remote repository:
+
+git remote add origin https://github.com/booleandream/notes.git
+
